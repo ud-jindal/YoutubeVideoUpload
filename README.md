@@ -1,6 +1,6 @@
 # Youtube Uploader
 Steps to run:- </br>
-1)bundle install. </br>
-2)Rename your credintials in client_secret.json and video_upload.rb. </br>
-3)bundle exec ruby --file xyz.mp4   
-
+<ol>
+<li>bundle install.</li>
+<li>Rename your credentials in client_secret.json and video_upload.rb.</li>
+<li>bundle exec ruby --file xyz.mp4.</li>
